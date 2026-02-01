@@ -27,9 +27,11 @@ This simulator is **simple, educational, and fully interactive via command-line 
   4.Make sure python **3.8 or above** is installed.
   5. Run the main program.:
 
-  '''bash
+
+
+  ```bash
   python main.py
-  '''
+  ```
 
   6. You will see the interactive menu:
   '''
