@@ -42,7 +42,7 @@ This simulator is **simple, educational, and fully interactive via command-line 
   4. Mine block
   5. Exit
 
-  '''
+  ---
   Follow the prompts to create transactions, view the UTXO state, inspect the mempool, and simulate mining.
   ---
 
