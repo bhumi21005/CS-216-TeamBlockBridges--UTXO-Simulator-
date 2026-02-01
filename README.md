@@ -18,7 +18,9 @@ This simulator is **simple, educational, and fully interactive via command-line 
 
  ### Instructions to run the program 
   1.**Clone or download** these repository.
+  ---
   2.Open a terminal / Command prompt.
+  ---
   3.Navigate to the 'src/'directory:
 
   '''
