@@ -1,3 +1,4 @@
+import uuid
 def mine_block(miner_address, mempool, utxo_manager, num_txs=5):
 selected_txs = mempool.get_top_transactions(num_txs)
 if not selected_txs:
