@@ -1,5 +1,11 @@
 # CS-216---TeamBlockBridges--UTXO-Simulator
 
+
+---
+### Project Overview
+
+This project is a complete simulation of the **Bitcoin UTXO (Unspent Transactions output)** model - implemented from scratch without using any Blockchain libraries. It demonstrates how bitcoin manages coins, validate transactions, prevent double spending, and confirm transactions via mining. 
+This simulator is **simple, educational, and fully interactive via command-line menu** -  perfect for understanding real bitcoin mechanics.
 ---
 ### Team Members
 - **Shruti Gajanan Turare** (240008029)  
@@ -7,11 +13,7 @@
 - **Kumkum Kushwaha** (240004028)  
 - **Mhaske Prajwal Sanjay** (240004033)
 ---
-### Project Overview
 
-This project is a complete simulation of the **Bitcoin UTXO (Unspent Transactions output)** model - implemented from scratch without using any Blockchain libraries. It demonstrates how bitcoin manages coins, validate transactions, prevent double spending, and confirm transactions via mining. 
-This simulator is **simple, educational, and fully interactive via command-line menu** -  perfect for understanding real bitcoin mechanics.
----
 
 
 ### Learning Outcomes
