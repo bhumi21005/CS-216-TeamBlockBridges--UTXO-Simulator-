@@ -17,9 +17,9 @@
 **Team Members:**
 
 - **Bhumika Kumari** – 240051006 
-- **Kumkum** – 240004028
-- **Prajwal** – 240004033
-- **Shruti** – 240008029
+- **Kumkum kushwaha** – 240004028
+- **Mhaske Prajwal Sanjay** – 240004033
+- **Shruti Turare** – 240008029
 ---
 
 ## Overview
