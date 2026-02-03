@@ -1,4 +1,3 @@
-#MEMPOOL CLASS
 class Mempool:
 def __init__(self, max_size=50):
 self.transactions = []
