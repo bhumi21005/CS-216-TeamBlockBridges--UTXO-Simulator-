@@ -10,15 +10,15 @@
 **Submission Type:** Public GitHub Repository  
 
 ---
-## 👥 Team Information
+##  Team Information
 
 **Team Name:** BlockBridges 
 
 **Team Members:**
 
 - **Bhumika Kumari** – 240051006 
-- **Kumkum ** – 
-- **Prajwal** – 
+- **Kumkum** – 240004028
+- **Prajwal** – 240004033
 - **Shruti** – 240008029
 ---
 
