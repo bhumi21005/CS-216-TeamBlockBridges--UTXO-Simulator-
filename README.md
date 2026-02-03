@@ -12,6 +12,8 @@
 This project is a complete simulation of the **Bitcoin UTXO (Unspent Transactions output)** model - implemented from scratch without using any Blockchain libraries. It demonstrates how bitcoin manages coins, validate transactions, prevent double spending, and confirm transactions via mining. 
 This simulator is **simple, educational, and fully interactive via command-line menu** -  perfect for understanding real bitcoin mechanics.
 ---
+
+
 ### Learning Outcomes
 
  **By completing this assignment, we demonstrate:**
