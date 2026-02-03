@@ -1,4 +1,4 @@
-# PART 2: TRANSACTION CLASS
+#TRANSACTION CLASS
 class Transaction:
 def __init__(self, tx_id, inputs, outputs):
 self.tx_id = tx_id
